@@ -12,7 +12,7 @@ What'new:
   ·重新按照body、content、tab三个分支构建了代码，保留了百度轻原有代码中的关键部分，并且加入了相当一部分的独立代码。
 * 可以修改背景了（但是不建议），修改方法为删除第7行的注释并且填入在任意图床获取的url图片，推荐路过图床，免登陆，最高上限10MB。
 * 取消了站点栏的显示，因为我实际体验根本用不上，未来可能对此增加选项（下次更新可能要等很久，因为我目前要准备高考，见谅）。
-  顺便再打个广告，https://github.com/zhuozhiyongde/Alfred_HeWeather_Workflow，这是我自己写的一个Alfred查询天气的workflow，如果有mac用户有这方面的需求可以下载哦~
+  顺便再打个广告，https://github.com/zhuozhiyongde/Alfred_HeWeather_Workflow ，这是我自己写的一个Alfred查询天气的workflow，如果有mac用户有这方面的需求可以下载哦~
 * 部分代码来自于@CWorld的Pure Baidu，也是一个很棒的百度样式，不仅支持搜索界面还支持其他百度站点，推荐下载（如果觉得他的更好就不用下这个了）
   部分代码改编自Baidu Lite，再次致谢@pan_cao。
 
@@ -28,7 +28,7 @@ Safari用户可能需要手动调整.soutu-layer .soutu-url-btn{}处的margin-le
 
 ### Baidu Lite Repair V1.0.0
 
-修复@pan_cao的百度轻（https://userstyles.org/styles/123858/baidu-lite）由于最近百度UI更新导致的元素错位、部分失效问题。
+修复@pan_cao的百度轻（ https://userstyles.org/styles/123858/baidu-lite ）由于最近百度UI更新导致的元素错位、部分失效问题。
 前言：作者并非专业前端人员，仅自学过一段时间css，因为无法接受百度轻因为百度更新影响导致的界面崩溃，故尝试修改。能力、时间有限，如果出现新的bug请见谅。
 由于尚未摸清楚css动画的实现，需要删除百度轻样式中的部分代码：
 原百度轻代码内323-409行需要删去,目的是删去放大镜图标的贝塞尔曲线动画。
