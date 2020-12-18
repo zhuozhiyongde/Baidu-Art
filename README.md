@@ -1,4 +1,4 @@
-## 写在前面
+# 写在前面
 
 ### ☉关于作者
 
@@ -30,7 +30,7 @@
 
 
 
-## 更新历史
+# 更新历史
 
 ### Baidu Art V2.0.5
 
@@ -106,7 +106,7 @@
 
 
 
-## Issue/Request 问题/反馈区
+# Issue/Request 问题/反馈区
 
 ### Issue1：百度主页https://www.baidu.com/的百度icon好像错位了
 
